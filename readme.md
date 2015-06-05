@@ -13,7 +13,7 @@ values in the following lines of code:
 			var app = "YOUR-APP";
 			var clientID = "PASTE-CLIENT-ID-HERE";
 			var clientSecret = "PASTE-CLIENT-SECRET-HERE";
-
+```
 
 In order to generate your clientId and clientSecret follow these steps:
 
